@@ -70,8 +70,7 @@ class MyClient(discord.Client):
 
 # openai
 openai.organization = "openai org"
-openai.api_key = "open ai api
-key"
+openai.api_key = "open ai api key"
 
 # discord
 intents = discord.Intents.default()
